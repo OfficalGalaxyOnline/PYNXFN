@@ -18,4 +18,4 @@ Need Contact?
 Name: John Mcdowall
 Email: vortyxy@gmail.com
 
-If you do not give credit OR you say it's "your own bot" we will take legal action)
+(If you do not give credit OR you say it's "your own bot" we will take legal action)
